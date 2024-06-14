@@ -1,0 +1,41 @@
+.alenimg {
+  display: flex;
+  justify-content: center;
+}
+img {
+  width: 200px;
+  height: 150px;
+}
+a img {
+  padding-top: 15px;
+  width: 15px;
+  height: 15px;
+}
+.flex {
+  display: flex;
+  height: 40px;
+}
+.firstbox {
+  background-color: rgb(160, 183, 126);
+}
+.resume {
+  display: flex;
+  justify-content: center;
+}
+.secondbox {
+  margin-left: 10px;
+}
+.resume h4 {
+  background-color: aqua;
+  margin-left: 10px;
+}
+.resume-box {
+  display: flex;
+  border: 1px solid;
+}
+.firstbox {
+  padding-left: 10px;
+}
+.academic p {
+  padding-left: 10px;
+}
